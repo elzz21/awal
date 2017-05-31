@@ -1,0 +1,19 @@
+//Source file: D:\\DesignModel\\regis.java
+
+package DesignModel;
+
+
+public class regis 
+{
+   private int username;
+   private int email;
+   private int password;
+   
+   /**
+   @roseuid 592E42610053
+    */
+   public regis() 
+   {
+    
+   }
+}
